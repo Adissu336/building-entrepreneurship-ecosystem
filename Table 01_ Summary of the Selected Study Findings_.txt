@@ -1,0 +1,34 @@
+| Key Finding | Variables | Area of Study | Author(s) | NO. |
+|-------------|-----------|---------------|-----------|-----|
+| Classmates' entrepreneurship education impacts intention but not the establishment of new companies. | Organizational factors, entrepreneurial classes | Entrepreneurial Education | Bergmann et al. 2016 | 1 |
+| Entrepreneurial education strengthens the relationship between subjective norms and entrepreneurial attitudes. | Subjective norms, entrepreneurial attitudes | Entrepreneurial Education | Entrialgo & Iglesias 2016 | 2 |
+| Entrepreneurial education provides insights into self-employment processes; motivation and skills affect entrepreneurial intention. | Cognitive self-employed process, motivation, skills | Entrepreneurial Education | Barba-Sánchez 2017 | 3 |
+| Significant linkages between entrepreneurial intention and knowledge of support. | Knowledge of entrepreneurial support | Entrepreneurial Education | Malebana 2017 | 4 |
+| Entrepreneurial education is crucial in shaping students' entrepreneurial intention. | Self-efficacy, behavioral control, risk-taking, proactive personality | Entrepreneurial Education | Boldureanu et al. 2020 | 5 |
+| Entrepreneurial education affects intention, encouraging job creation over job seeking. | Entrepreneurial motivation, entrepreneurial intention | Entrepreneurial Education | Fadli et al. 2020 | 6 |
+| Entrepreneurial education fosters self-efficacy, proactive personality, and entrepreneurial intentions. | Outcome expectations, spin-off intentions | Entrepreneurial Education | Adu et al. 2020 | 7 |
+| Similar findings supporting the positive impact of entrepreneurial education on intentions. | Outcome expectations, spin-off intentions | Entrepreneurial Education | Blaese et al. 2021 | 8 |
+| Entrepreneurship education significantly impacts students' entrepreneurial intention. | Entrepreneurial intention | Entrepreneurial Education | Gupta R. K. 2022 | 9 |
+| Entrepreneurial education fosters positive attitudes towards entrepreneurship. | Entrepreneurial guidance, positive mindset | Entrepreneurial Education | Muhammad et al. 2022 | 10 |
+| Entrepreneurial education positively influences students' inclination towards entrepreneurship. | Entrepreneurial guidance, positive mindset | Entrepreneurial Education | Mahama et al. 2023 | 11 |
+| Entrepreneurial education fosters entrepreneurial intentions in students. | Entrepreneurial intention | Entrepreneurial Education | Pérez-Pérez & González-Torres 2023 | 12 |
+| Synergy between environments triggers student entrepreneurial activities. | Synergy between internal and external environment | Entrepreneurial Education | Astuty et al. 2022 | 13 |
+| Training influences entrepreneurial intentions and behavior. | Personality traits, social norms, motivation | Entrepreneurial Training | Zhang Wei & Junhee Cho 2023 | 14 |
+| More thorough training leads to increased entrepreneurial intention. | Entrepreneurial intention | Entrepreneurial Training | Alcívar et al. 2023 | 15 |
+| Training enhances mindset and intention; moderated by learning motivation and prior exposure. | Entrepreneurial mindset, learning motivation, prior exposure | Entrepreneurial Training | Sun et al. 2023 | 16 |
+| Training impacts intentions, mediated by self-efficacy and attitude. | Entrepreneurial self-efficacy, entrepreneurial attitude | Entrepreneurial Training | Kisubi & Korir 2021 | 17 |
+| Positive effects of support programs on entrepreneurial intentions. | Educational support, activities support, commercialization support | Entrepreneurial Support Programs | Liao et al. 2022 | 18 |
+| Significant relationship between knowledge of support and entrepreneurial intention. | Knowledge of support, entrepreneurial intention | Entrepreneurial Support Programs | Malebana 2014 | 19 |
+| Support programs and seminars increase entrepreneurial intention. | Business seminars, entrepreneurial intention | Entrepreneurial Support Programs | Malebana 2021 | 20 |
+| Support programs enhance entrepreneurial intention. | Training, marketing, networking, financial support | Entrepreneurial Support Programs | Zin & Ibrahim 2020 | 21 |
+| Incubator performance positively impacts desirability and self-efficacy, influencing intentions. | Pre-incubation phase, desirability, self-efficacy | Entrepreneurship Incubators | Zhang et al. 2022 | 22 |
+| Incubators positively affect desirability, self-efficacy, and facilitating conditions, influencing intentions. | Incubator performance, desirability, self-efficacy, facilitating conditions | Entrepreneurship Incubators | Karla et al. 2010 | 23 |
+| Government and teaching institutions boost entrepreneurship through incentives. | Incentive policies | Entrepreneurship Incubators | Arruda et al. 2023 | 24 |
+| Incubators enhance motivation and productivity among aspiring entrepreneurs. | Professional environment, motivation, productivity | Entrepreneurship Incubators | Li et al. 2019 | 25 |
+| Incubator impact on intention is moderated by the level of entrepreneurial knowledge. | Entrepreneurial knowledge | Entrepreneurship Incubators | Iqbal et al. 2020 | 26 |
+| Incubators provide support for fostering entrepreneurial intention. | Support for entrepreneurship intention | Entrepreneurship Incubators | Xing Ru 2014 | 27 |
+| Industrial collaboration encourages entrepreneurial opportunities by providing practical experience. | Entrepreneurial internships, workplace experiences | Industrial Collaboration | Hardiyanto et al. 2022 | 28 |
+| Collaboration between education and industry enhances entrepreneurial intentions post-graduation. | Collaboration, theoretical knowledge, practical experience | Industrial Collaboration | Shamsudin et al. 2018 | 29 |
+| Close collaboration with industry enhances entrepreneurship intention. | Industry-Institute-Interaction cell | Industrial Collaboration | Pai et al. 2016 | 30 |
+| Industrial work practice experience positively influences entrepreneurial intention. | Industrial work practice, entrepreneurial intention | Industrial Collaboration | Matsum 2018 | 31 |
+| Industrial collaboration in engineering education enhances entrepreneurship intentions. | Engineering education, industry collaboration projects | Industrial Collaboration | Wheadon et al. 2015 | 32 |
